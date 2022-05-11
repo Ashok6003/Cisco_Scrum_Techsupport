@@ -1,0 +1,316 @@
+{
+    "totalCount": "10",
+    "subscriptionId": "72058289845501953",
+    "imdata": [
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 4801516, New: 11262764), capUtilized (Old: 88, New: 72), used (Old: 34238804, New: 27777556)",
+                    "childAction": "",
+                    "code": "F1528",
+                    "created": "2022-04-04T08:55:28.720-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 with hostname svlngen4-fab1-apic1 mounted at /techsupport is 88% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301770451",
+                    "domain": "infra",
+                    "highestSeverity": "major",
+                    "id": "4301770451",
+                    "ind": "deletion",
+                    "lc": "",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "major",
+                    "prevSeverity": "major",
+                    "rule": "eqpt-storage-full-major",
+                    "severity": "cleared",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 4801516, New: 11262764), capUtilized (Old: 88, New: 72), used (Old: 34238804, New: 27777556)",
+                    "childAction": "",
+                    "code": "F1528",
+                    "created": "2022-04-04T07:55:27.403-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 with hostname svlngen4-fab1-apic1 mounted at /techsupport is 88% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301770442",
+                    "domain": "infra",
+                    "highestSeverity": "major",
+                    "id": "4301770442",
+                    "ind": "modification",
+                    "lc": "retaining",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "major",
+                    "prevSeverity": "major",
+                    "rule": "eqpt-storage-full-major",
+                    "severity": "cleared",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 4801516, New: 11262764), capUtilized (Old: 88, New: 72), used (Old: 34238804, New: 27777556)",
+                    "childAction": "",
+                    "code": "F1528",
+                    "created": "2022-04-04T07:53:23.646-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 with hostname svlngen4-fab1-apic1 mounted at /techsupport is 88% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301770439",
+                    "domain": "infra",
+                    "highestSeverity": "major",
+                    "id": "4301770439",
+                    "ind": "modification",
+                    "lc": "raised-clearing",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "major",
+                    "prevSeverity": "major",
+                    "rule": "eqpt-storage-full-major",
+                    "severity": "major",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 6315100, New: 6179932), capUtilized (Old: 84, New: 85), used (Old: 32725220, New: 32860388)",
+                    "childAction": "",
+                    "code": "F1527",
+                    "created": "2022-03-29T08:20:51.030-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 mounted at /techsupport is 84% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760778",
+                    "domain": "infra",
+                    "highestSeverity": "warning",
+                    "id": "4301760778",
+                    "ind": "deletion",
+                    "lc": "",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "warning",
+                    "prevSeverity": "warning",
+                    "rule": "eqpt-storage-full-warning",
+                    "severity": "cleared",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 5279836, New: 4805468), capUtilized (Old: 87, New: 88), used (Old: 33760484, New: 34234852)",
+                    "childAction": "",
+                    "code": "F1528",
+                    "created": "2022-03-29T07:20:49.698-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 with hostname svlngen4-fab1-apic1 mounted at /techsupport is 88% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760769",
+                    "domain": "infra",
+                    "highestSeverity": "major",
+                    "id": "4301760769",
+                    "ind": "modification",
+                    "lc": "raised",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "major",
+                    "prevSeverity": "major",
+                    "rule": "eqpt-storage-full-major",
+                    "severity": "major",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 6315100, New: 6179932), capUtilized (Old: 84, New: 85), used (Old: 32725220, New: 32860388)",
+                    "childAction": "",
+                    "code": "F1527",
+                    "created": "2022-03-29T07:20:49.695-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 mounted at /techsupport is 84% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760768",
+                    "domain": "infra",
+                    "highestSeverity": "warning",
+                    "id": "4301760768",
+                    "ind": "modification",
+                    "lc": "retaining",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "warning",
+                    "prevSeverity": "warning",
+                    "rule": "eqpt-storage-full-warning",
+                    "severity": "cleared",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 6315100, New: 6179932), capUtilized (Old: 84, New: 85), used (Old: 32725220, New: 32860388)",
+                    "childAction": "",
+                    "code": "F1528",
+                    "created": "2022-03-29T07:18:36.612-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 with hostname svlngen4-fab1-apic1 mounted at /techsupport is 85% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760767",
+                    "domain": "infra",
+                    "highestSeverity": "major",
+                    "id": "4301760767",
+                    "ind": "creation",
+                    "lc": "soaking",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "major",
+                    "prevSeverity": "major",
+                    "rule": "eqpt-storage-full-major",
+                    "severity": "major",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 6315100, New: 6179932), capUtilized (Old: 84, New: 85), used (Old: 32725220, New: 32860388)",
+                    "childAction": "",
+                    "code": "F1527",
+                    "created": "2022-03-29T07:18:36.606-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 mounted at /techsupport is 84% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760766",
+                    "domain": "infra",
+                    "highestSeverity": "warning",
+                    "id": "4301760766",
+                    "ind": "modification",
+                    "lc": "raised-clearing",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "warning",
+                    "prevSeverity": "warning",
+                    "rule": "eqpt-storage-full-warning",
+                    "severity": "warning",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 8351560, New: 8197704), capUtilized (Old: 79, New: 80), used (Old: 30688760, New: 30842616)",
+                    "childAction": "",
+                    "code": "F1527",
+                    "created": "2022-03-29T07:15:49.583-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 mounted at /techsupport is 80% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760765",
+                    "domain": "infra",
+                    "highestSeverity": "warning",
+                    "id": "4301760765",
+                    "ind": "modification",
+                    "lc": "raised",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "warning",
+                    "prevSeverity": "warning",
+                    "rule": "eqpt-storage-full-warning",
+                    "severity": "warning",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        },
+        {
+            "faultRecord": {
+                "attributes": {
+                    "ack": "no",
+                    "affected": "topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]",
+                    "cause": "equipment-full",
+                    "changeSet": "available (Old: 10212936, New: 10051656), capUtilized (Old: 74, New: 75), used (Old: 28827384, New: 28988664)",
+                    "childAction": "",
+                    "code": "F1527",
+                    "created": "2022-03-29T07:13:21.191-07:00",
+                    "delegated": "no",
+                    "delegatedFrom": "",
+                    "descr": "Storage unit /techsupport on Node 1 mounted at /techsupport is 75% full",
+                    "dn": "subj-[topology/pod-1/node-1/sys/ch/p-[/techsupport]-f-[/dev/mapper/vg_ifc0-techsupport]]/fr-4301760764",
+                    "domain": "infra",
+                    "highestSeverity": "warning",
+                    "id": "4301760764",
+                    "ind": "creation",
+                    "lc": "soaking",
+                    "modTs": "never",
+                    "occur": "1",
+                    "origSeverity": "warning",
+                    "prevSeverity": "warning",
+                    "rule": "eqpt-storage-full-warning",
+                    "severity": "warning",
+                    "status": "",
+                    "subject": "equipment-full",
+                    "type": "operational"
+                }
+            }
+        }
+    ]
+}

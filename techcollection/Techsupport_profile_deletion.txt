@@ -1,0 +1,23 @@
+Not_to_be_deleted:
+NA
+##################################################
+
+
+To_be_Deleted:
+tsod-1031-1032-postreload
+tsod-1031-1032-prereload
+tsod-DHCP_issue
+tsod-686508458
+tsod-sw1011_tech
+tsod-default
+tsod-BL_leaf_Stale_Entries
+##################################################
+
+Tech support Profile Deletion:
+Successfully deleted uni/fabric/tsod-1031-1032-postreload
+Successfully deleted uni/fabric/tsod-1031-1032-prereload
+Successfully deleted uni/fabric/tsod-DHCP_issue
+Successfully deleted uni/fabric/tsod-686508458
+Successfully deleted uni/fabric/tsod-sw1011_tech
+Successfully deleted uni/fabric/tsod-default
+Successfully deleted uni/fabric/tsod-BL_leaf_Stale_Entries

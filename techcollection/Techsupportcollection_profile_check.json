@@ -1,0 +1,553 @@
+{
+  "totalCount": "21",
+  "subscriptionId": "72060029303652353",
+  "imdata": [
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-default",
+          "endTime": "unspecified",
+          "exportToController": "no",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2015-04-10T12:45:56.296-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "default",
+          "nameAlias": "",
+          "seqNum": "0",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "1969-12-31T17:00:00.000-07:00",
+          "uid": "0",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-DHCP_issue",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2020-12-16T05:29:54.421-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "DHCP_issue",
+          "nameAlias": "",
+          "seqNum": "1",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "2020-12-16T05:34:03.236-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-sw1011_tech",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2020-03-02T02:24:33.133-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "sw1011_tech",
+          "nameAlias": "",
+          "seqNum": "2",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "2020-03-02T02:28:42.949-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-1031-1032-prereload",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2021-10-19T10:41:15.398-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "1031-1032-prereload",
+          "nameAlias": "",
+          "seqNum": "1",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "2021-10-19T10:45:24.543-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-686508458",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2019-05-23T18:36:07.146-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "686508458",
+          "nameAlias": "",
+          "seqNum": "2",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "2019-05-23T18:40:16.266-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-1031-1032-postreload",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2021-10-19T11:02:50.087-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "1031-1032-postreload",
+          "nameAlias": "",
+          "seqNum": "0",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "1969-12-31T17:00:00.000-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpTechSupOnD": {
+        "attributes": {
+          "adminSt": "untriggered",
+          "annotation": "",
+          "apicPath": "",
+          "appName": "",
+          "category": "all",
+          "childAction": "",
+          "compression": "gzip",
+          "controllerLocation": "apic",
+          "dbMetadata": "no",
+          "descr": "",
+          "dn": "uni/fabric/tsod-BL_leaf_Stale_Entries",
+          "endTime": "unspecified",
+          "exportToController": "yes",
+          "extMngdBy": "",
+          "extensiveLogs": "no",
+          "internalSource": "no",
+          "lcOwn": "local",
+          "maximumRetryCount": "3",
+          "modTs": "2019-06-07T09:06:03.970-07:00",
+          "monPolDn": "uni/fabric/monfab-default",
+          "name": "BL_leaf_Stale_Entries",
+          "nameAlias": "",
+          "seqNum": "1",
+          "startTime": "unspecified",
+          "status": "",
+          "triggerTime": "2019-06-07T09:10:13.076-07:00",
+          "uid": "15374",
+          "upgradeLogs": "no",
+          "vendorName": ""
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-DHCP_issue/rstsSrc-[topology/pod-1/node-1112/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2020-12-16T05:29:38.008-07:00",
+          "rType": "mo",
+          "srcId": "1112",
+          "srcIp": "10.0.248.5/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1112/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-DHCP_issue/rstsSrc-[topology/pod-1/node-1111/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2020-12-16T05:29:38.008-07:00",
+          "rType": "mo",
+          "srcId": "1111",
+          "srcIp": "10.0.248.4/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1111/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-sw1011_tech/rstsSrc-[topology/pod-1/node-1011/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-11-26T03:49:26.091-07:00",
+          "rType": "mo",
+          "srcId": "1011",
+          "srcIp": "10.0.184.95/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1011/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-sw1011_tech/rstsSrc-[topology/pod-1/node-1012/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-11-26T03:49:26.091-07:00",
+          "rType": "mo",
+          "srcId": "1012",
+          "srcIp": "10.0.176.126/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1012/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-prereload/rstsSrc-[topology/pod-1/node-1032/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T10:41:04.102-07:00",
+          "rType": "mo",
+          "srcId": "1032",
+          "srcIp": "10.0.184.65/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1032/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-prereload/rstsSrc-[topology/pod-1/node-1031/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T10:41:04.102-07:00",
+          "rType": "mo",
+          "srcId": "1031",
+          "srcIp": "10.0.184.64/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1031/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-686508458/rstsSrc-[topology/pod-1/node-3811/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-05-23T18:35:59.291-07:00",
+          "rType": "mo",
+          "srcId": "3811",
+          "srcIp": "10.0.248.0/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-3811/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-686508458/rstsSrc-[topology/pod-1/node-3812/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-05-23T18:35:59.291-07:00",
+          "rType": "mo",
+          "srcId": "3812",
+          "srcIp": "10.0.248.1/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-3812/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-postreload/rstsSrc-[topology/pod-1/node-1031/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T11:02:50.087-07:00",
+          "rType": "mo",
+          "srcId": "1031",
+          "srcIp": "10.0.184.64/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1031/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-postreload/rstsSrc-[topology/pod-1/node-1032/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T11:02:50.087-07:00",
+          "rType": "mo",
+          "srcId": "1032",
+          "srcIp": "10.0.184.65/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-1032/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-BL_leaf_Stale_Entries/rstsSrc-[topology/pod-1/node-3812/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-06-07T09:05:39.649-07:00",
+          "rType": "mo",
+          "srcId": "3812",
+          "srcIp": "10.0.248.1/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-3812/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRsTsSrc": {
+        "attributes": {
+          "annotation": "",
+          "childAction": "",
+          "dn": "uni/fabric/tsod-BL_leaf_Stale_Entries/rstsSrc-[topology/pod-1/node-3811/sys]",
+          "extMngdBy": "",
+          "forceResolve": "yes",
+          "lcOwn": "local",
+          "modTs": "2019-06-07T09:05:39.649-07:00",
+          "rType": "mo",
+          "srcId": "3811",
+          "srcIp": "10.0.248.0/32",
+          "state": "unformed",
+          "stateQual": "none",
+          "status": "",
+          "tCl": "topSystem",
+          "tDn": "topology/pod-1/node-3811/sys",
+          "tType": "mo",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "dbgexpRtApplTechSupOnDemand": {
+        "attributes": {
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-prereload/rtfabricApplTechSupOnDemand-[uni/fabric/funcprof/ctrlrgrp-default]",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T10:41:04.102-07:00",
+          "status": "",
+          "tCl": "fabricCtrlrPGrp",
+          "tDn": "uni/fabric/funcprof/ctrlrgrp-default"
+        }
+      }
+    },
+    {
+      "dbgexpRtApplTechSupOnDemand": {
+        "attributes": {
+          "childAction": "",
+          "dn": "uni/fabric/tsod-1031-1032-postreload/rtfabricApplTechSupOnDemand-[uni/fabric/funcprof/ctrlrgrp-default]",
+          "lcOwn": "local",
+          "modTs": "2021-10-19T11:02:50.087-07:00",
+          "status": "",
+          "tCl": "fabricCtrlrPGrp",
+          "tDn": "uni/fabric/funcprof/ctrlrgrp-default"
+        }
+      }
+    }
+  ]
+}

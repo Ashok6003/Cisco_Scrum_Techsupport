@@ -1,0 +1,44 @@
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+total 36
+drwxrwxr-x 2 ifc   admin  4096 Apr 20 04:07 debug
+drwxrwxrwx 2 root  root   4096 Apr  5 04:23 heapstats
+drwx------ 2 root  root  16384 Nov 22  2019 lost+found
+drwxr-xr-x 2 admin admin  4096 Apr 23 23:13 test.txt
+drwxrwxrwx 2 root  root   4096 Dec 12  2019 troubleshoot
+drwx------ 2 admin admin  4096 Apr 23 23:22 upgradeTriages
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+/dev/mapper/vg_ifc0-techsupport   40G   49M   38G   1% /data/techsupport
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+##################################################
+Collecting Tech support files more than 30 days:
+find: '/data/techsupport/lost+found': Permission denied
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+##################################################
+Deleting Tech support files more than 30 days:
+find: '/data/techsupport/lost+found': Permission denied
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+##################################################
+After deletion of all Tech support files more than 30 days:
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+total 36
+drwxrwxr-x 2 ifc   admin  4096 Apr 20 04:07 debug
+drwxrwxrwx 2 root  root   4096 Apr  5 04:23 heapstats
+drwx------ 2 root  root  16384 Nov 22  2019 lost+found
+drwxr-xr-x 2 admin admin  4096 Apr 23 23:13 test.txt
+drwxrwxrwx 2 root  root   4096 Dec 12  2019 troubleshoot
+drwx------ 2 admin admin  4096 Apr 23 23:22 upgradeTriages
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+/dev/mapper/vg_ifc0-techsupport   40G   49M   38G   1% /data/techsupport
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+ 
+
+##################################################
+Finished Executing Script
+##################################################
